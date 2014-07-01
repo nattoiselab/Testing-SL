@@ -1,11 +1,9 @@
-<html>
+This is the HelloWorld.java
 
-<header> This is a testing file </header>
-
-<body>
-
-Hello World!
-
-</body>
-
-</html>
+```java
+class HelloWorld {
+  public static void main(String[] args){
+    System.out.println("Hello World in Java");
+  }
+}
+```
